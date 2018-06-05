@@ -13,7 +13,7 @@
 
 ## 交流提问区
 
-https://github.com/issues
+https://github.com/wallacewoo1990/sickle/issues
 
 ## 关于作者
 
