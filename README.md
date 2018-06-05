@@ -5,6 +5,7 @@
 ## 产品简介
 
 ## 产品安装和下载
+ - https://github.com/wallacewoo1990/sickle/releases
 
 ## 快速使用
 
